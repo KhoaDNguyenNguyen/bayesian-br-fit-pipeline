@@ -1,0 +1,7 @@
+FREQUENTIST CROSS-CHECK SUMMARY
+========================================
+
+68.3% (1-sigma) Confidence Level Intervals from Profile Likelihood:
+
+mc:  [1.825, 1.835] GeV
+rho: [0.574, 0.675]

@@ -1,0 +1,8 @@
+GOODNESS-OF-FIT PULL SUMMARY
+========================================
+
+Pull is defined as (Median_model - Exp) / sqrt(sigma_model^2 + sigma_exp^2)
+
+Channel Br(J/ψ→ηcγ): 2.133 sigma
+Channel Br(χc0→J/ψγ): -0.213 sigma
+Channel Br(ψ(2S)→χc0γ): -0.141 sigma

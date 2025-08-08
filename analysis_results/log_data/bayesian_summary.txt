@@ -1,0 +1,31 @@
+BAYESIAN PARAMETER ESTIMATION SUMMARY
+========================================
+
+      Parameter | Median & 68% Credible Interval
+-------------------------------------------------------
+             mc | 1.82975 (+0.00891 / -0.00540)
+            rho | 0.61101 (+0.05950 / -0.05332)
+      Jpsi_mass | 3.09690 (+0.00001 / -0.00001)
+     Jpsi_width | 0.00009 (+0.00000 / -0.00000)
+      etac_mass | 2.98410 (+0.00004 / -0.00004)
+     etac_width | 0.03048 (+0.00050 / -0.00049)
+     psi2S_mass | 3.68610 (+0.00001 / -0.00001)
+    psi2S_width | 0.00029 (+0.00001 / -0.00001)
+     chiC0_mass | 3.41470 (+0.00030 / -0.00030)
+    chiC0_width | 0.01057 (+0.00066 / -0.00063)
+        hc_mass | 3.52537 (+0.00014 / -0.00014)
+       hc_width | 0.00079 (+0.00028 / -0.00028)
+     chiC1_mass | 3.51067 (+0.00005 / -0.00005)
+    chiC1_width | 0.00084 (+0.00004 / -0.00004)
+     chiC2_mass | 3.55617 (+0.00007 / -0.00007)
+    chiC2_width | 0.00198 (+0.00009 / -0.00009)
+
+
+ADDITIONAL FIT METRICS
+========================================
+Best-fit (max likelihood) mc:  1.82716 GeV
+Best-fit (max likelihood) rho: 0.63263
+Pearson Correlation (mc, rho): -0.7719
+Minimum Chi-Squared (from dynesty): 8.1227
+Degrees of Freedom (d.o.f): 1
+Chi-Squared / d.o.f: 8.1227
