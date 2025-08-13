@@ -1,7 +1,3 @@
-Dưới đây là phiên bản README.md được cải tiến và viết lại hoàn toàn bằng tiếng Anh cho kho lưu trữ GitHub của bạn.
-
----
-
 # Charmonium Decay Analysis Pipeline
 
 This repository contains a comprehensive physics analysis pipeline designed to determine the core model parameters, $m_c$ (the charm quark mass) and $\rho$ (a parameter related to the meson wave function), by fitting to experimental data on charmonium decays. The analysis employs both Bayesian and frequentist statistical methods to ensure robust and cross-validated results.
